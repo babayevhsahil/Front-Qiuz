@@ -79,3 +79,93 @@
 }
 /* Header End */
 
+/* Main Start */
+
+#home {
+    background-color: #eeeeee;
+}
+
+.h-heroimg{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+/* Main End */
+
+/* Footer Start */
+#footer {
+    background-color: #1F1F24;
+    width: 100%;
+    height: 300px;
+}
+
+.addres i {
+    color: #FFFFFF;
+}
+
+.rerservations i {
+    color: #FFFFFF;
+}
+
+.hours i {
+    color: #FFFFFF;
+}
+
+.addres a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.rerservations a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.hours a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.follow-us a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.street p {
+    color: #BCBCBE;
+}
+
+.r-phone p {
+    color: #BCBCBE;
+}
+
+.week p {
+    color: #BCBCBE;
+}
+
+.f-second {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+}
+
+.f-first a, p{
+    text-decoration: none;
+    color: #BCBCBE;
+
+}
+
+.f-first {
+  display: flex;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/* Footer End */
